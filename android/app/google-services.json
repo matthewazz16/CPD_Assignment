@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058220872533",
+    "project_id": "quicknotes-77a4b",
+    "storage_bucket": "quicknotes-77a4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058220872533:android:1d4387c7e55e5c5308d5dc",
+        "android_client_info": {
+          "package_name": "com.matthew.azzopardi_cpd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-8hOWG-qtQ2TOkiDhA5gNbfCiQXQCaa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
