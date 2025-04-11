@@ -11,8 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  image_picker: ^0.8.4+4  # Add the image_picker dependency here
+  image_picker: ^0.8.4+4 
   cupertino_icons: ^1.0.8
+  flutter_local_notifications: ^9.1.4 
 
 dev_dependencies:
   flutter_test:
